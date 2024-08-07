@@ -16,7 +16,7 @@ def sorteio(x, n,n_min, n_max):
                     lista.remove(numero_sorteado)
                     
         print('-'*(n*4))
-        print(lista_numeros)
+        print(sorted(lista_numeros, key=int))
         lista_numeros.clear()
         x -=1
     print('-'*(n*4))
