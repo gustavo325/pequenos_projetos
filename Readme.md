@@ -1,4 +1,4 @@
-![Terceirizar a plotagem de plantas e projetos vale a pena? - Helioprint](https://helioprint.com.br/wp-content/uploads/2017/04/plotagem-projeto-arquitetonico-900x365.jpg)
+<img src="https://www.novida.com.br/wp-content/uploads/2019/01/Gestao-de-Projetos.png" style="zoom:80%;" />
 
 
 
@@ -12,5 +12,6 @@ _____
 #### :man: Autor: 
 
 - Gustavo Henrique; 
-  - Linkedin: www.linkedin.com/in/gustavo-henriques 
+  - Linkedin: www.linkedin.com/in/gustavo99
 
+****
