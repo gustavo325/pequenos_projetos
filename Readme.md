@@ -13,5 +13,3 @@ _____
 
 - Gustavo Henrique; 
   - Linkedin: www.linkedin.com/in/gustavo99
-
-****
